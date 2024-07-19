@@ -1,6 +1,6 @@
 class A{
     public void show() throws ClassNotFoundException{
-            Class.forName("calc");//this will be handles in main 
+            Class.forName("calc");//this will be handled in main 
     }
 }
 public class throwskeyword {
